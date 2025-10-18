@@ -10,6 +10,7 @@
   },
   "scripts": {
     "init-keypair": "ts-node src/init.ts",
+    "check-balance": "ts-node check_balance.ts",
     "return-objects": "ts-node src/return_objects_exercise.ts",
     "input-objects": "ts-node src/input_objects_exercise.ts",
     "scavenger-hunt": "ts-node src/scavenger_hunt_exercise.ts"
